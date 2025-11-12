@@ -11,7 +11,7 @@ moto1 = Moto("Ducati", "Multistrada", 1200, 210, 18000, 50)
 moto2 = Moto("BMW", "R1250GS", 1250, 249, 22000, 60)
 moto3 = Moto("Honda", "Africa Twin", 1100, 240, 17000, 55)
 moto4 = Moto("Yamaha", "Tracer 9 GT", 890, 214, 14000, 45)
-
+moto5 = None
 
 lista_moto = [moto1, moto2, moto3, moto4]
 
